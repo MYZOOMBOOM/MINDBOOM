@@ -1,0 +1,2 @@
+# MINDBOOM
+all for study
